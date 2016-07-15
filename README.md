@@ -1,2 +1,2 @@
-# go-test-the-fs-and-http
-Examples of how to test/mock out the File System and HTTP requests
+# go-meshblu-connector-installer
+Command line installer for Meshblu connectors
